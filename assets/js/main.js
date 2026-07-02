@@ -5,7 +5,7 @@
 const CONFIG = {
   // 1. Crea una cuenta gratis en https://formspree.io, crea un formulario
   //    y reemplaza "TU_FORM_ID" por el ID que te entregan (ej: "mzblqwer").
-  FORMSPREE_ENDPOINT: "https://formspree.io/f/TU_FORM_ID",
+  FORMSPREE_ENDPOINT: "https://formspree.io/f/xwvdwqna",
 
   // 2. Número de WhatsApp de contacto, formato internacional sin "+" ni espacios
   //    (ej: Ecuador 09XXXXXXXX -> "5939XXXXXXXX")
